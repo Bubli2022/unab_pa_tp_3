@@ -36,6 +36,7 @@ Objetivos a cumplir por los estudiantes:
 
 Clase 3. Unidad I.
 T2: Exposición de la Práctica
+
 Ejercicio 1:
 ● Conforme equipos de trabajo de 2 (a lo sumo 3) estudiantes
 ● Crear un carpeta en su equipo de trabajo de nombre unab_pa_tp_3.
@@ -43,9 +44,6 @@ Ejercicio 1:
 ● Cree un archivo README.md con los objetivos del presente taller
 ● Publique su proyecto en GitHub (debe hacer desde la cuenta de uno de los integrantes del equipo,
 invitar a los otros integrantes y al docente a la cuenta felipemoralesquerol)
-
-Clase 3. Unidad I.
-T2: Exposición de la Práctica
 
 Ejercicio 2:
 ● Crear la clase Punto con dos atributos x e y (ambos numéricos), con el correspondiente
