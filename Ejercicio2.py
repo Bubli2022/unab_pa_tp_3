@@ -23,3 +23,13 @@ class Punto:
         """Mueve el punto en el plano una cantidad dx en X y dy en Y"""
         self.x += dx
         self.y += dy
+
+if __name__ == "__main__":
+    p1 = Punto(3, 4)
+    print("Punto:", p1.impresion())
+    print("Eje X:", p1.eje_x())
+    print("Eje Y:", p1.eje_y())
+    print("Opuesto:", p1.opuesto().impresion())
+    print("Distancia al origen:", p1.distancia_origen())
+    p1.mover(1, -2)
+    print("Punto movido:", p1.impresion())

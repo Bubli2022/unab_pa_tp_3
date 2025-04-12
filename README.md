@@ -1,5 +1,8 @@
 # unab_pa_tp_3
+
 Trabajo práctico para la materia Programación avanzada de la carrera de tecnicatura en programación. Profesor Felipe Morales Querol
+
+ALUMNO: ARIEL MARCOS PÉREZ
 
 PROGRAMACIÓN AVANZADA (189)
 Lic. Felipe Morales
@@ -56,9 +59,8 @@ constructor que recibe ambos valores.
 negativos-)
 ○ Cualquier otro método que considere importante
 
-
 Ejercicio 3:
-Define una clase Línea con dos atributos: _punto_a y _punto_b. Son dos puntos por los que
+Define una clase Línea con dos atributos: \_punto_a y \_punto_b. Son dos puntos por los que
 pasa la línea en un espacio de dos dimensiones.
 La clase dispondrá de los siguientes métodos:
 ● Linea(Punto, Punto) Constructor que recibe como parámetros dos objetos de la clase
@@ -67,7 +69,6 @@ Punto, que son utilizados para inicializar los atributos.
 ● mueve_izquierda(float) Desplaza la línea a la izquierda la distancia que se indique.
 ● mueve_arriba(float) Desplaza la línea hacia arriba la distancia que se indique.
 ● mueve_abajo(float) Desplaza la línea hacia abajo la distancia que se indique.
-
 
 Ejercicio 4:
 Desarrolla una clase Cancion con los siguientes atributos:
@@ -80,7 +81,6 @@ canción (por este orden).
 ● get_autor(): devuelve el autor de la canción.
 ● set_titulo(String): establece el título de la canción.
 ● set_autor(String): establece el autor de la canción
-
 
 Ejercicio 5:
 ● Crea una clase Libro que modele la información que se mantiene en una biblioteca sobre
